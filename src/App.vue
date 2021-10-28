@@ -31,12 +31,12 @@ const changeStatus = (id) => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-800">
+  <div class="min-h-screen bg-purple-800">
     <div class="container flex flex-col pt-8 mx-auto space-y-8">
       <h1
         class="pb-4 text-6xl font-thin tracking-tight text-center text-gray-300"
       >
-        🚀 My Todo App
+        🚀 My To Do App
       </h1>
       <input
         @change="addTodo"
