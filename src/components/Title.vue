@@ -14,7 +14,7 @@ const add = () => {
 </script>
 
 <template>
-  <h1 class="pb-4 text-6xl font-thin tracking-tight text-center text-gray-300">
+  <h1 class="pb-4 text-6xl font-thin tracking-tight text-center text-black">
     🚀 My To Do App
   </h1>
   <input

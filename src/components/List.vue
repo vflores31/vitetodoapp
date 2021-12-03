@@ -15,7 +15,7 @@ defineProps({
   <div class="w-1/3">
     <h3
       class="text-2xl text-center"
-      :class="isCompleted ? 'text-green-400' : 'text-blue-400'"
+      :class="isCompleted ? 'text-blue-600' : 'text-red-700'"
     >
       {{ isCompleted ? "Completed" : "Pending" }}
     </h3>
